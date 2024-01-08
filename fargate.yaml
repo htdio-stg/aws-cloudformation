@@ -5,10 +5,10 @@ Parameters:
 
   ServiceName:
     Type: String
-    Default: <ParameterServiceName>
+    Default: '<ParameterServiceName>'
   Image:
     Type: String
-    Default: <ParameterImage>
+    Default: '<ParameterImage>'
   ContainerPort:
     Type: Number
     Default: <ParameterContainerPort>
